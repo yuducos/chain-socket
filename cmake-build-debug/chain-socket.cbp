@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="chain-socket"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;CMake Files\cmake\;CMake Files\cmake\macros\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/xarvie/Desktop/chain-socket/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/xarvie/Desktop/chain-socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/xarvie/Desktop/chain-socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/xarvie/Desktop/chain-socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/xarvie/Desktop/chain-socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/xarvie/Desktop/chain-socket/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/xarvie/Desktop/chain-socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/xarvie/Desktop/chain-socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/xarvie/Desktop/chain-socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/xarvie/Desktop/chain-socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/xarvie/Desktop/chain-socket/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/xarvie/Desktop/chain-socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/xarvie/Desktop/chain-socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/xarvie/Desktop/chain-socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/xarvie/Desktop/chain-socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="chain-socket">
+				<Option output="/Users/xarvie/Desktop/chain-socket/cmake-build-debug/chain-socket" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xarvie/Desktop/chain-socket/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/xarvie/Desktop/chain-socket/code"/>
+					<Add directory="/Users/xarvie/Desktop/chain-socket/code/chain-socket"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/xarvie/Desktop/chain-socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 chain-socket"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/xarvie/Desktop/chain-socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/xarvie/Desktop/chain-socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/xarvie/Desktop/chain-socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="chain-socket/fast">
+				<Option output="/Users/xarvie/Desktop/chain-socket/cmake-build-debug/chain-socket" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xarvie/Desktop/chain-socket/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/xarvie/Desktop/chain-socket/code"/>
+					<Add directory="/Users/xarvie/Desktop/chain-socket/code/chain-socket"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/xarvie/Desktop/chain-socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 chain-socket/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/xarvie/Desktop/chain-socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/xarvie/Desktop/chain-socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/xarvie/Desktop/chain-socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/xarvie/Desktop/chain-socket/code/chain-socket/BlockQueue.h">
+			<Option target="chain-socket"/>
+		</Unit>
+		<Unit filename="/Users/xarvie/Desktop/chain-socket/code/chain-socket/Buffer.hpp">
+			<Option target="chain-socket"/>
+		</Unit>
+		<Unit filename="/Users/xarvie/Desktop/chain-socket/code/chain-socket/EpollPoller.hpp">
+			<Option target="chain-socket"/>
+		</Unit>
+		<Unit filename="/Users/xarvie/Desktop/chain-socket/code/chain-socket/IOCPPoller.h">
+			<Option target="chain-socket"/>
+		</Unit>
+		<Unit filename="/Users/xarvie/Desktop/chain-socket/code/chain-socket/KqueuePoller.hpp">
+			<Option target="chain-socket"/>
+		</Unit>
+		<Unit filename="/Users/xarvie/Desktop/chain-socket/code/chain-socket/NetStruct.h">
+			<Option target="chain-socket"/>
+		</Unit>
+		<Unit filename="/Users/xarvie/Desktop/chain-socket/code/chain-socket/Poller.cpp">
+			<Option target="chain-socket"/>
+		</Unit>
+		<Unit filename="/Users/xarvie/Desktop/chain-socket/code/chain-socket/Poller.h">
+			<Option target="chain-socket"/>
+		</Unit>
+		<Unit filename="/Users/xarvie/Desktop/chain-socket/code/chain-socket/PrivateHeaders.h">
+			<Option target="chain-socket"/>
+		</Unit>
+		<Unit filename="/Users/xarvie/Desktop/chain-socket/code/chain-socket/Queue.h">
+			<Option target="chain-socket"/>
+		</Unit>
+		<Unit filename="/Users/xarvie/Desktop/chain-socket/code/chain-socket/SelectPoller.hpp">
+			<Option target="chain-socket"/>
+		</Unit>
+		<Unit filename="/Users/xarvie/Desktop/chain-socket/code/chain-socket/SystemInterface.hpp">
+			<Option target="chain-socket"/>
+		</Unit>
+		<Unit filename="/Users/xarvie/Desktop/chain-socket/code/chain-socket/SystemReader.h">
+			<Option target="chain-socket"/>
+		</Unit>
+		<Unit filename="/Users/xarvie/Desktop/chain-socket/code/chain-socket/Timer.cpp">
+			<Option target="chain-socket"/>
+		</Unit>
+		<Unit filename="/Users/xarvie/Desktop/chain-socket/code/chain-socket/Timer.h">
+			<Option target="chain-socket"/>
+		</Unit>
+		<Unit filename="/Users/xarvie/Desktop/chain-socket/code/chain-socket/catch.hpp">
+			<Option target="chain-socket"/>
+		</Unit>
+		<Unit filename="/Users/xarvie/Desktop/chain-socket/code/test_case.cpp">
+			<Option target="chain-socket"/>
+		</Unit>
+		<Unit filename="/Users/xarvie/Desktop/chain-socket/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/xarvie/Desktop/chain-socket/cmake/macros/AutoCollect.cmake">
+			<Option virtualFolder="CMake Files\cmake\macros\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

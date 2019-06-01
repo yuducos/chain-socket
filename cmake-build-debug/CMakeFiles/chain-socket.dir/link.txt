@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -g -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/chain-socket.dir/code/test_case.cpp.o CMakeFiles/chain-socket.dir/code/chain-socket/Poller.cpp.o CMakeFiles/chain-socket.dir/code/chain-socket/Timer.cpp.o  -o chain-socket -lpthread 
